@@ -6,7 +6,7 @@ from random import randint
 
 win = Tk()
 win.iconbitmap('heart.ico')
-win.title('Любовный калькулятор')
+win.title('калькулятор')
 
 def calculation():
     number = randint(60, 100)
